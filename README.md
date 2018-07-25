@@ -1,2 +1,2 @@
 # SignalFaultPredictor
-Predict service faults on Australia's largest telecommunications network 
+Log data analytics to predict service faults on Australia's largest telecommunications network 
